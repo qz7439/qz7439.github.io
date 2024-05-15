@@ -1,15 +1,16 @@
 header{
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
 
     height: 50px;
     padding: 1rem;
     color: white;
-    background-color: royalblue;
+    background-color: dimgray;
     font-weight: bold;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
+}
+
+.upper-menu{
+    color: white;
+    text-decoration: none;
 }
