@@ -1,9 +1,10 @@
 header{
 
+    outline: none;
     height: 50px;
     padding: 1rem;
     color: white;
-    background-color: dimgray;
+    background-color: #b4a389;
     font-weight: bold;
     display: flex;
     justify-content: space-evenly;
